@@ -1,0 +1,12 @@
+gigachain
+gigaserve
+sse_starlette
+fastapi
+uvicorn
+python-dotenv
+beautifulsoup4
+tiktoken
+requests
+duckduckgo-search
+arxiv
+sentence_transformers
